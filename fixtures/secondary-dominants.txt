@@ -1,0 +1,4 @@
+tempo 90
+meter 4/4
+key C major
+| C | A7 | Dm | D7 | G7 | C | E7 | Am | F | Fm | C/G | G7 | C |

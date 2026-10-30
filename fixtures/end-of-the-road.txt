@@ -1,0 +1,6 @@
+tempo 120
+meter 4/4
+key A dorian
+[Intro] | A5 | G5 | D5 | D5 |
+[Verse] | Am | Gadd9 | D | D | Am | Gadd9 | D | D |
+[Chorus] | ^C6 | ^Bbmaj7 | F | F | ^Cadd9 | ^Bbmaj7 | F | Bb |
