@@ -1,0 +1,4 @@
+tempo 70
+meter 6/8
+key Bb major
+| Bbmaj7 | Gm7 | Ebmaj7 | F7sus4 F7 |

@@ -1,0 +1,4 @@
+tempo 100
+meter 4/4
+key D lydian
+| D | E/D | D | E/D | Bm | C#m | D | E |

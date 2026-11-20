@@ -1,0 +1,4 @@
+tempo 140
+meter 3/4
+key E minor
+| Em | Em | C | C | Am | B7 | Em | B7 |

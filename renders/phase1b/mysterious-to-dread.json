@@ -1,0 +1,293 @@
+{
+  "version": 2,
+  "key": {
+    "root": 0,
+    "name": "C",
+    "mode": "phrygian"
+  },
+  "tempo": 100,
+  "meter": [
+    4,
+    4
+  ],
+  "ensemble": "strings",
+  "take": 1,
+  "nextId": 5,
+  "controllers": true,
+  "articulationNames": false,
+  "blocks": [
+    {
+      "id": "block-1",
+      "section": "Intro",
+      "emotion": "mysterious",
+      "key": "same",
+      "bars": [
+        {
+          "chords": [
+            {
+              "degree": 1,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 2,
+              "spice": "plain"
+            },
+            {
+              "degree": 1,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false,
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "chords": [
+            {
+              "degree": 5,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 5,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": true
+        }
+      ],
+      "energy": 4,
+      "complexity": 3,
+      "texture": "arpeggio",
+      "register": "middle",
+      "runs": true,
+      "bigEntrance": false,
+      "locked": false,
+      "take": 1,
+      "curve": "swell",
+      "rhythm": "unfold"
+    },
+    {
+      "id": "block-2",
+      "section": "Verse",
+      "emotion": "mysterious",
+      "key": "same",
+      "bars": [
+        {
+          "chords": [
+            {
+              "degree": 2,
+              "spice": "plain",
+              "pedal": 1
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 1,
+              "spice": "plain",
+              "pedal": 1
+            },
+            {
+              "degree": 4,
+              "spice": "plain",
+              "pedal": 1
+            }
+          ],
+          "push": false,
+          "hold": false,
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "chords": [
+            {
+              "degree": 5,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 5,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": true
+        }
+      ],
+      "energy": 4,
+      "complexity": 3,
+      "texture": "arpeggio",
+      "register": "middle",
+      "runs": true,
+      "bigEntrance": false,
+      "locked": false,
+      "take": 1,
+      "curve": "swell",
+      "rhythm": "unfold"
+    },
+    {
+      "id": "block-3",
+      "section": "Chorus",
+      "emotion": "dread",
+      "key": "same",
+      "bars": [
+        {
+          "chords": [
+            {
+              "degree": 1,
+              "spice": "lean"
+            },
+            {
+              "degree": 3,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false,
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "chords": [
+            {
+              "degree": 2,
+              "spice": "lean"
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 2,
+              "spice": "lean"
+            }
+          ],
+          "push": false,
+          "hold": true
+        },
+        {
+          "chords": [
+            {
+              "degree": 7,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false
+        }
+      ],
+      "energy": 6,
+      "complexity": 3,
+      "texture": "tremolo",
+      "register": "low",
+      "runs": true,
+      "bigEntrance": false,
+      "locked": false,
+      "take": 1,
+      "curve": "swell",
+      "rhythm": "rush"
+    },
+    {
+      "id": "block-4",
+      "section": "Outro",
+      "emotion": "dread",
+      "key": "same",
+      "bars": [
+        {
+          "chords": [
+            {
+              "degree": 4,
+              "spice": "lean",
+              "pedal": 1
+            },
+            {
+              "degree": 2,
+              "spice": "plain",
+              "alter": -1,
+              "quality": "major",
+              "pedal": 1
+            }
+          ],
+          "push": false,
+          "hold": false,
+          "weights": [
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "chords": [
+            {
+              "degree": 1,
+              "spice": "lean",
+              "pedal": 1
+            }
+          ],
+          "push": false,
+          "hold": false
+        },
+        {
+          "chords": [
+            {
+              "degree": 1,
+              "spice": "lean",
+              "pedal": 1
+            }
+          ],
+          "push": false,
+          "hold": true
+        },
+        {
+          "chords": [
+            {
+              "degree": 5,
+              "spice": "plain"
+            }
+          ],
+          "push": false,
+          "hold": false
+        }
+      ],
+      "energy": 6,
+      "complexity": 3,
+      "texture": "tremolo",
+      "register": "low",
+      "runs": true,
+      "bigEntrance": false,
+      "locked": false,
+      "take": 1,
+      "curve": "swell",
+      "rhythm": "rush"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+tempo 85
+meter 4/4
+key D minor
+[Verse] | Dm | Dm | Bb | C | Dm | Dm | Bb | C |
+[Chorus] | Dm | Bb | F | C | Dm | Bb | F | C |
+[Bridge] | Dm | Gm | Bb | A | Dm | Gm | Bb | A |
+[Build] | Bb | C | Dm | A |

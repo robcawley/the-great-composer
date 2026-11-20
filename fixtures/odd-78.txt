@@ -1,0 +1,4 @@
+tempo 160
+meter 7/8
+key A minor
+| Am | F | C | G | Am | F | C | G |

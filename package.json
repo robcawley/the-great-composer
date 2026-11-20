@@ -1,0 +1,25 @@
+{
+  "name": "the-great-composer",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "tgc": "./cli/tgc.mjs"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --open",
+    "build": "tsc --noEmit && vite build",
+    "test": "tsx --test tests/*.test.ts",
+    "render": "tsx cli/render.ts",
+    "measure": "tsx scripts/measure.ts"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.13.0",
+    "jsdom": "^26.1.0",
+    "midi-file": "^1.2.4",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vite": "^6.1.0"
+  }
+}
